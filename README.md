@@ -54,6 +54,36 @@ Driving into the famous town of **Las Vegas**, you wouldn't imagine that you wer
 > "The greatest glory in living lies not in never falling, but in rising every time we fall."-Nelson Mandela*<Br>
 > "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough."-"Oprah Winfrey"
 
+  ---
+
+  # Disjoint Set Union
+
+> In computer science, a disjoint-set data structure, also called a union–find data structure or merge–find set, is a data structure that stores a collection of disjoint (non-overlapping) sets. Equivalently, it stores a partition of a set into disjoint subsets.
+
+[Click here to know more](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+
+```
+
+void make_set(int v) {
+    parent[v] = v;
+}
+
+int find_set(int v) {
+    if (v == parent[v])
+        return v;
+    return find_set(parent[v]);
+}
+
+void union_sets(int a, int b) {
+    a = find_set(a);
+    b = find_set(b);
+    if (a != b)
+        parent[b] = a;
+}
+
+```
+
+[code Source](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
    
    
 
