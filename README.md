@@ -14,4 +14,18 @@ Driving into the famous town of **Las Vegas**, you wouldn't imagine that you wer
 3. The flight from Arizona to Las Vegas will arrive within half an hour, take the flight.
     1. It takes 3 hours to reach Las Vegas from Arizona.
     2. After landing take all your belogings safe.
-4. finally we have reached to our destination.         
+4. finally we have reached to our destination.  
+
+
+* I would like to Carry:
+  * Groceries:
+    * Vegetables
+    * Fruits
+    * Chocolates
+  * Drinks:
+    * Fanta
+    * Thumps up
+    * Coco Cola
+  * Accessories:
+    * Goggles
+    * Sanitizer 
