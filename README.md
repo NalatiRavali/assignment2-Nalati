@@ -41,7 +41,10 @@ Driving into the famous town of **Las Vegas**, you wouldn't imagine that you wer
 
    |Food Item|Location|Price|
    |---|---|---|
-   |butter chicken|Bwarchi|$10|s
+   |butter chicken|Bawarchi|$10|
+   |pizza|pizza hut|$2|
+   |panner masala|restaurant|$5|
+   |parota|kinara grand|$8|
 
    
    
