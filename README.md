@@ -46,6 +46,14 @@ Driving into the famous town of **Las Vegas**, you wouldn't imagine that you wer
    |panner masala|restaurant|$5|
    |parota|kinara grand|$8|
 
+
+   ---
+
+   # Pithy Quotes
+
+> "The greatest glory in living lies not in never falling, but in rising every time we fall."-Nelson Mandela*<Br>
+> "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough."-"Oprah Winfrey"
+
    
    
 
